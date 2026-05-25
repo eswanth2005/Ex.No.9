@@ -1,7 +1,5 @@
 # Exp 9 — Exploration of Prompting Techniques for Video Generation
 
-## Experiment No.:** 9  
-
 ## NAME: ESWANTH KUMAR K
 ## Date:- 25-05-2026
 ## Register No.:  212223040046
